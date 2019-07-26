@@ -1,0 +1,43 @@
+body {
+    font-family: Bebas Neue;
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(240, 240, 240);
+}
+
+.container  {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+ul  {
+    margin: 0;
+    padding: 0;
+}
+
+header  {
+    background: rgb(243, 65, 65);
+    color: #ffffff;
+    padding-top: 5px;
+    min-height: 40px;
+    border-bottom: rgb(220, 20, 60) 5px solid;
+}
+
+header li {
+    float: left;
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+
+header namawebsite {
+    float:left;
+    padding: 0px;
+    margin: 0 px; 
+    margin-right: 10px;
+}
+
+header nav {
+    float: right;
+}
